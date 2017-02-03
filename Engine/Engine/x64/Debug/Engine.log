@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\brianngugi\documents\visual studio 2015\projects\engine\engine\source.cpp(70): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Engine.vcxproj -> c:\users\brianngugi\documents\visual studio 2015\Projects\Engine\x64\Debug\Engine.exe
+  Engine.vcxproj -> c:\users\brianngugi\documents\visual studio 2015\Projects\Engine\x64\Debug\Engine.pdb (Full PDB)
